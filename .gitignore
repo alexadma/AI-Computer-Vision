@@ -1,0 +1,25 @@
+# hasil training / output video
+runs/
+OUTPUT FIX/
+OUTPUT_FIX/
+
+# model YOLO
+*.pt
+*.onnx
+
+# video besar
+*.mp4
+
+# VS Code / Visual Studio cache
+.vs/
+*.sqlite
+*.sqlite-journal
+
+# dataset besar
+datasets/
+data/
+
+# cache python
+__pycache__/
+.venv/
+.env
