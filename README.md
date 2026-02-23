@@ -7,9 +7,12 @@
 Project ini merupakan hasil karya skripsi penulis tahun 2024 yang membahas pengembangan sistem Artificial Intelligence berbasis Computer Vision untuk mendeteksi objek bola dan ring basket, membandingkan performa model YOLOv8 dan YOLOv9, serta menganalisis akurasi tembakan pada latihan individu olahraga basket.  
 Seluruh kode dan metodologi dalam repository ini merupakan hasil pengembangan penulis untuk keperluan akademik.
 
+Video dapat di lihat pada link berikut https://drive.google.com/drive/folders/1PxoG4bvBoACMEFkCWtuGYbehxDX95saK?usp=sharing perhatikan Struktur Folder Project!
+
 Hak cipta © 2024 Alexander Adma Karyadi.  
 Dilarang menggunakan, memperbanyak, atau memodifikasi sebagian atau seluruh isi project ini untuk kepentingan komersial tanpa izin tertulis dari penulis.  
 Untuk keperluan akademik atau penelitian, mohon cantumkan sumber dan referensi.
+
 
 ---
 
