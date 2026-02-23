@@ -16,7 +16,7 @@
 
    📋 Deskripsi Singkat
 
-Project ini merupakan hasil karya skripsi penulis tahun 2024 yang membahas pengembangan sistem **Artificial Intelligence** berbasis **Computer Vision** untuk:
+Project ini merupakan hasil karya skripsi penulis tahun 2025 yang membahas pengembangan sistem **Artificial Intelligence** berbasis **Computer Vision** untuk:
 
 - Mendeteksi objek bola dan ring basket secara real-time
 - Membandingkan performa model **YOLOv8** dan **YOLOv9**
@@ -79,5 +79,5 @@ Computer Vision/
 ---
 
 <div align="center">
-  <sub>Built with ❤️ for academic purpose · Universitas Sanata Dharma Yogyakarta · 2024</sub>
+  <sub>Built with ❤️ for academic purpose · Universitas Sanata Dharma Yogyakarta · 2025</sub>
 </div>
